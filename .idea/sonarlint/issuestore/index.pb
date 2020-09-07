@@ -1,0 +1,19 @@
+
+O
+src/aggregators/Aggregator.java,b/2/b2eec09af702f244a46072d28abfc1a710544126
+R
+"src/aggregators/MaxAggregator.java,1/9/19b6192de1200e0fa8fc6cd2ba11257f8381f890
+K
+src/client/Application.java,4/3/43fbabfd54f539f623369fbb66fe4f37e764cc5c
+T
+$src/client/StockFileApplication.java,e/e/ee7c76a53d7f79b014119067ebbf4f1442017322
+U
+%src/fileprocessors/StockFileData.java,f/8/f8d67465adc74bdc29543645c5a1a12264b0cab2
+9
+	table.csv,e/a/ea526e77a0c3d2c486e0cadb62da61d33d0b6c38
+W
+'src/fileprocessors/StockFileReader.java,e/b/eb9cf388120272eaf368e34dd8d4bf472d4ce8ee
+S
+#src/aggregators/MeanAggregator.java,f/3/f3a613420ac81230965bf238ff365ee92b7db7a0
+R
+"src/aggregators/MinAggregator.java,e/8/e830a583b031b02773a0d31e27f846ea99f72523
